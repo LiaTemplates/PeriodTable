@@ -16,7 +16,7 @@ attribute: This LiaScript macro is based on the implementation of [Bowserinator]
 
 PeriodicTable: @PeriodicTable.withStyle("width: 100%; height: 600px; border: 0; overflow: hidden;")
 
-PeriodicTable.withStyle: <iframe src="./index.html" style=@0></iframe>
+PeriodicTable.withStyle: <iframe src="https://liatemplates.github.io/PeriodicTable/index.html" style=@0></iframe>
 
 -->
 
